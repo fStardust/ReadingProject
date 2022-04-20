@@ -1,2 +1,2 @@
 # ReadingProject
-Self Reading Project
+Personal Reading Project
